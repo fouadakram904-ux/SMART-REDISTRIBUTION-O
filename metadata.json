@@ -1,0 +1,8 @@
+{
+  "name": "Egyptian Redistribution Platform (Static Prototype)",
+  "description": "Static B2B SaaS Prototype for the Egyptian FMCG sector. Simulated dynamic pricing and logistics tracking across Cairo and Alexandria. No external API keys required.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
